@@ -1,0 +1,13 @@
+```
+# Executable files
+dcp_inspect_py/install_package/dcp_inspect
+
+# Build artifacts
+*.spec
+
+# Temporary and installation files
+*.tmp
+*.log
+dcp_inspect_py/install_package/
+```
+base_library.zip

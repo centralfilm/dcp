@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.smpte-ra.org/schemas/429-7/2006/CPL">
+    <Id>urn:uuid:12345678-1234-5678-9012-123456789012</Id>
+    <AnnotationText>Test Composition Playlist</AnnotationText>
+    <IssueDate>2023-01-01T00:00:00</IssueDate>
+    <Creator>Test</Creator>
+    <ContentTitleText>Test DCP</ContentTitleText>
+    <ContentKind>
+        <Text>Feature</Text>
+    </ContentKind>
+    <ContentVersion>
+        <Id>urn:uuid:12345678-1234-5678-9012-123456789012</Id>
+        <AnnotationText>Test Version</AnnotationText>
+    </ContentVersion>
+    <TotalRunningTime>00:01:00:00</TotalRunningTime>
+    <EditRate>25 1</EditRate>
+    <StartTime>00:00:00:00</StartTime>
+    <CompositionTimecode>
+        <TimecodeDropFrame>false</TimecodeDropFrame>
+        <TimecodeRate>25</TimecodeRate>
+        <TimecodeStartAddress>00:00:00:00</TimecodeStartAddress>
+    </CompositionTimecode>
+</CompositionPlaylist>

@@ -1,0 +1,14 @@
+README.md
+setup.py
+constants/__init__.py
+constants/strings.py
+dcp_inspect_py.egg-info/PKG-INFO
+dcp_inspect_py.egg-info/SOURCES.txt
+dcp_inspect_py.egg-info/dependency_links.txt
+dcp_inspect_py.egg-info/entry_points.txt
+dcp_inspect_py.egg-info/requires.txt
+dcp_inspect_py.egg-info/top_level.txt
+lib/__init__.py
+lib/crypto_utils.py
+lib/mxf_utils.py
+lib/xml_utils.py
