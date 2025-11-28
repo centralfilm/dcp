@@ -1,0 +1,2 @@
+[console_scripts]
+dcp-inspect-py = dcp_inspect:main
