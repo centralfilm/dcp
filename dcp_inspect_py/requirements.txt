@@ -1,0 +1,4 @@
+# Dependencies for dcp_inspect Python conversion
+xmlschema>=2.0.0
+cryptography>=3.4.0
+lxml>=4.6.0  # Alternative XML processing if needed
